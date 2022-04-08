@@ -8,7 +8,7 @@
 </head>
 <body>
 
-문서2
+문서2(추가)
 
 </body>
 </html>
